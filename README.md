@@ -4,6 +4,7 @@
 
 <h2>Skills:</h2>
 -HTML5  
+
 -CCS3  
 -JavaScript  
 -React.js  
@@ -13,7 +14,7 @@
 -JQuery  
 -Python  
 -Django  
--PostgreSQL
+-PostgreSQL  
 
  <h2 >Project List: </h2>
 -Build-A-Farm - Hackathon 1st Place - <a href="https://github.com/BrockPaperScissors/tech-hackathon">Repository</a>  
