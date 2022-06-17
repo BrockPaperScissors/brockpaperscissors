@@ -3,13 +3,13 @@
 ### My name is Michael Brock, and I appreciate you taking the time to check out my GitHub!
 
 <h2>Skills:</h2>
--HTML5
-
+-HTML5  
 -CCS3  
 -JavaScript  
 -React.js  
 -Express.js  
 -Node.js  
+-MongoDB  
 -JQuery  
 -Python  
 -Django  
