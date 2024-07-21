@@ -17,10 +17,10 @@
 -PostgreSQL  
 
  <h2 >Project List: </h2>
--Build-A-Farm - Hackathon 1st Place - <a href="https://github.com/BrockPaperScissors/tech-hackathon">Repository</a>  
--Book Roulette (Group Proj) - <a href="https://github.com/GeMMS-Project-2/book-roulette-frontend">Front End Repository</a> | <a href="https://github.com/GeMMS-Project-2/book-roulette-backend">Back End Repository</a>  
--Team Deets - <a href="https://github.com/BrockPaperScissors/TeamDeets">Repository</a>  
--Baby Gandalph - <a href="https://github.com/BrockPaperScissors/BabyGandalph">Repository</a>
+<li>Build-A-Farm - Hackathon 1st Place - <a href="https://github.com/BrockPaperScissors/tech-hackathon">Repository</a>
+<li>Book Roulette (Group Proj) - <a href="https://github.com/GeMMS-Project-2/book-roulette-frontend">Front End Repository</a> | <a href="https://github.com/GeMMS-Project-2/book-roulette-backend">Back End Repository</a> </li> 
+<li>Team Deets - <a href="https://github.com/BrockPaperScissors/TeamDeets">Repository</a></li>
+<li>Baby Gandalph - <a href="https://github.com/BrockPaperScissors/BabyGandalph">Repository</a></li>
 
 <h2>Favorite Stack:</h2>
 -MongoDB
