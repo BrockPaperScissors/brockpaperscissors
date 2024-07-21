@@ -18,9 +18,6 @@
 
  <h2 >Project List: </h2>
 -Build-A-Farm - Hackathon 1st Place - <a href="https://github.com/BrockPaperScissors/tech-hackathon">Repository</a>  
-
--Portfolio Site - <a href="https://github.com/BrockPaperScissors/portfolio">Repository</a>  
--Bad Interview - <a href="https://github.com/BrockPaperScissors/BadInterview">Front End Repository</a> | <a href="https://github.com/BrockPaperScissors/badinterviewbackend">Back End Repository</a>  
 -Book Roulette (Group Proj) - <a href="https://github.com/GeMMS-Project-2/book-roulette-frontend">Front End Repository</a> | <a href="https://github.com/GeMMS-Project-2/book-roulette-backend">Back End Repository</a>  
 -Team Deets - <a href="https://github.com/BrockPaperScissors/TeamDeets">Repository</a>  
 -Baby Gandalph - <a href="https://github.com/BrockPaperScissors/BabyGandalph">Repository</a>
