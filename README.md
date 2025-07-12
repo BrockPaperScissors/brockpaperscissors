@@ -1,4 +1,4 @@
-# Greetings! 👋
+# Hey, Welcome! 👋
 
 ### My name is Michael Brock, and I am currently studying Computer Science at Santa Monica College. I am passionate about game development, and have a background in Software QA, web development, and customer service.
 
